@@ -53,4 +53,4 @@ by a PR so other fellow can try it.
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
 |     |           |      |             |       |
-| 721520 | Germán Garcés| [https://github.com/SergioGCH/lab6-microservices/blob/test/solution.md](https://github.com/SergioGCH/lab6-microservices/blob/test/solution.md)     | |       |
+| 721520 | Sergio García-Campero Hernández | [https://github.com/SergioGCH/lab6-microservices/blob/test/solution.md](https://github.com/SergioGCH/lab6-microservices/blob/test/solution.md)     | |       |
